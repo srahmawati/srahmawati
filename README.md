@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi teman-teman👋
+nama saya rahma, asal dari Bima-NTB
+sekarang studi di Universitas Ahmad Dahlan Yogyakarta 
 <!--
 **srahmawati/srahmawati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
