@@ -1,6 +1,6 @@
-User_ID,Genre,Age,Estimated_Salary,purchesed;;Age;Estimated_Salary;Purchesed
-15624510,Male,19,19000,0;;;;
-15243768,Male,35,20000,0;;;;
-15809372,Female,26,43000,0;;;;
-15876543,Female,27,57000,0;;;;
-15122000,Male,19,76000,0;;;;
+User_ID,Genre,Age,Estimated_Salary,purchesed;
+15624510,Male,19,19000,0;
+15243768,Male,35,20000,0;
+15809372,Female,26,43000,0;
+15876543,Female,27,57000,0;
+15122000,Male,19,76000,0;
